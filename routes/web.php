@@ -15,6 +15,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
 
-    return view('welcome amit  after vivek');
+    return view('welcome amit  after vivek singh');
     
 });
