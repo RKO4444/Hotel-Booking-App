@@ -13,8 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get('/apm', function () {
 
-    return view('welcome amit');
+    return view('welcome amit amit amit amit from mmmmut');
     
 });
