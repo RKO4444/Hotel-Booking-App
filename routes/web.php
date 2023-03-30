@@ -15,6 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/apm', function () {
 
+
     return view('welcome amit amit amit amit from mmmmut');
-    
+ 
 });
